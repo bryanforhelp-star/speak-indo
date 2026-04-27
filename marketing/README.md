@@ -31,9 +31,9 @@ marketing/
   plan/
     30-day-plan.md             ← week-by-week playbook
   scripts/
-    archetypes.md              ← the 3 creator archetypes
+    archetypes.md              ← AI UGC creator spec
     hook-bank.md               ← reusable hook patterns
-    week-1/                    ← 14 fully drafted scripts (2/day x 7 days)
+    week-1/                    ← 14 AI UGC creator scripts (2/day x 7 days)
   seo/
     briefs.md                  ← SEO page briefs (week 1: 3 pages)
   partnerships/
@@ -41,6 +41,14 @@ marketing/
   metrics/
     north-star.md              ← KPIs, tracking schema, weekly review
 ```
+
+## Content production
+
+All week-1 scripts are **AI UGC**: a single AI-generated creator (foreign
+learner, mid-20s, slightly stylized) talking to camera with captions burnt
+in. Same character every video. ~20–30s spoken.
+
+See `scripts/archetypes.md` for the full AI UGC spec.
 
 ## How to use it
 
@@ -57,11 +65,14 @@ marketing/
 
 1. **Outcome first, AI second.** Lead with "speak practical Indonesian for
    Bali life in 5 minutes a day." AI is the proof, not the pitch.
-2. **One phrase per video.** Don't teach 5. Teach 1, well.
-3. **Show the situation.** A warung, a Gojek call, checking into a villa —
-   not a classroom.
-4. **CTA is always practice, never download.** "Practice this free at
-   speak-indo.com" beats "Download our app."
-5. **Foreigners learn from Indonesians.** Never have a non-Indonesian creator
-   pose as a native speaker. Learner POV is fine and relatable; "as a
-   local…" is off-limits unless the creator is local.
+2. **First-person, personal stake.** Every script opens with the creator's
+   reason for caring (going to Bali, moving, partner, trip).
+3. **One insight per video.** Teach one thing — a phrase, a grammar quirk,
+   a cultural concept — well.
+4. **Speak Indo lives in the middle of the script,** not slapped on the
+   end. The product is part of the story.
+5. **Soft endorsement close.** "Going to Bali a different person." / "Link
+   in bio." Never "Download now."
+6. **No Indonesian-presenting AI characters.** The AI creator is always a
+   foreign learner. Authority/pronunciation comes from native voice clips
+   layered into the cutaways, never from the avatar.

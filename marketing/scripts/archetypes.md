@@ -1,107 +1,60 @@
-# Creator Archetypes
+# AI UGC Creator Spec
 
-Three creator archetypes. Mix is **50% foreign learner / 30% Indonesian coach
-/ 20% faceless** (or a starter mix of 60/30/10 if simpler).
+All week-1 scripts are written for **single AI character, talking head,
+caption-burnt UGC.** No "host" / "faceless" / "demo" split — just one
+format, one creator, fourteen videos.
 
-Each archetype has a different role. Don't blur them.
+## The character
 
----
+- **Foreign learner.** Mid-20s to mid-30s. Could be expat, traveler,
+  digital nomad, tourist. Personal stake in Bali.
+- **Slightly stylized**, *not* photoreal. Avoid uncanny valley. Think
+  Captions / Hedra / Arcads-quality avatar with a clear, slightly animated
+  vibe — not a deepfake.
+- **Same character every video.** Same hair, same clothes, same room/scene.
+  Continuity = trust.
+- **Disclosed as AI** in profile bio + via the platform's AI-content toggle.
+- **Never claims to be Indonesian.** Never poses as a local. The frame is
+  always *foreigner who's learning,* and that's authentic by the brief's
+  own logic.
 
-## 1. The Foreign Learner — *the protagonist*
+## The voice
 
-The audience sees themselves in this person. This is the main creator.
+- **First person, always.** "I just learned…" / "I've been using this app…"
+  / "I'm going to Bali and…"
+- **Conversational rhythm.** Run-ons, "OK so," "y'all," "I'm not joking."
+  Not copywriter punchlines.
+- **Hook in first 5 words.** Specific personal claim or pattern interrupt.
+  No generic "if you're going to Bali" openers (those got over-used in
+  v1).
+- **Speak Indo woven into the middle.** Not slapped on the end. The product
+  is part of the story, not the ad.
+- **Soft endorsement close.** "Going to Bali a different person." / "Link
+  in bio." / "Try this one." Never "download now."
 
-**Look & vibe**
-- Foreign, 22–35, casual nomad/traveler
-- Natural light, warm, not over-produced
-- Settings: cafe, villa, beach walk, scooter helmet shot, warung table, airport
-- Sounds like a friend, not a teacher
+## Production format
 
-**Voice / role**
-- *"I'm learning too."*
-- Curious, slightly self-deprecating, never expert
-- Never says "as a local" or pretends to be a native speaker
+- **Length:** 20–30 seconds spoken (~100–130 words).
+- **Visual:** single talking head, captions burnt in.
+- **Cuts:** every 2–4 seconds (jump cuts on the avatar are fine — it's UGC).
+- **Optional cutaways:** native voice clip + on-screen Bahasa text when a
+  specific phrase is being taught (≤3s).
+- **Disclosure:** AI-content tag enabled on every platform.
 
-**Best for**
-- Day-1 / journey content ("Day 3 of learning Indonesian for Bali")
-- "Things I wish I knew before Bali"
-- "I tried ordering nasi goreng in Indonesian"
-- Practicing the AI coach on camera
+## What NOT to do
 
-**Sample line**
-> "I'm going to Bali next month and I realized I have no idea how to order
-> food without sounding awkward — so I've been practicing this one phrase
-> all week."
+- ❌ "Day 1 of learning Indonesian for Bali" journey schtick
+- ❌ Multi-archetype splits (host, coach, faceless, demo)
+- ❌ Long format scaffolding (cold open / proof / take / punchline)
+- ❌ AI character claiming to be Indonesian
+- ❌ Fake testimonials ("this app changed my life")
+- ❌ "Download now" / "Sign up today" CTAs
+- ❌ Overly polished corporate avatar energy
 
----
+## CTA bank (rotate)
 
-## 2. The Indonesian / Local Coach — *the authority*
-
-Provides cultural credibility and pronunciation truth.
-
-**Look & vibe**
-- Indonesian or local-presenting, friendly, teacher-warm
-- Bright simple background OR Bali street/warung
-- Clear pronunciation, calm pacing
-- Not corporate, not "guru"
-
-**Voice / role**
-- *"Here's how locals actually say it."*
-- Polite vs. casual register
-- Cultural context (when to use *kamu* vs *Anda*, etc.)
-
-**Best for**
-- "Don't say this, say this" pronunciation correction
-- Polite vs. casual contrast videos
-- Reacting to foreigners' attempts (duet/stitch)
-- Cultural notes on tipping, greetings, family
-
-**Sample line**
-> "If you want no spice in Indonesia, don't just say 'no spicy.' Say:
-> *jangan pedas.* Listen — *jangan pedas.* Now you try."
-
----
-
-## 3. Faceless Bali Survival Guide — *the scale lever*
-
-No on-screen creator. Pure utility content. Easiest to produce in volume,
-best for paid ads.
-
-**Look & vibe**
-- Bali b-roll: warungs, scooters, cafes, beaches, markets, airports, villas
-- Bold text overlays for the phrase
-- AI voiceover (clear, neutral, slightly warm — not robotic)
-- Captions burnt in
-- App screen recording for the CTA
-
-**Voice / role**
-- *"Save this for Bali."*
-- Pure utility, no personality
-- One scenario, one phrase, one CTA
-
-**Best for**
-- "Save this if you're going to Bali" hooks
-- Paid ad creatives
-- Phrase-of-the-day series
-- Repurposing winning organic ideas at scale
-
-**Sample line (voiceover)**
-> "Save this if you're going to Bali. When your Gojek driver calls and you
-> can't speak Indonesian, just say: *saya di depan.* It means 'I'm out
-> front.' Practice it free at speak-indo.com."
-
----
-
-## What none of them should be
-
-- Polished corporate avatars
-- Fake luxury influencer energy
-- Language professor vibes
-- Gen Z meme-only style
-- Fake testimonials ("this app changed my life")
-- Non-Indonesian creator pretending to be a native speaker
-- Uncanny AI influencer faces
-
-The whole brand should feel: **natural, sunny, casual, Bali-adjacent,
-useful, beginner-safe.** Less "course ad," more "friend who just learned how
-to not embarrass themselves at a warung."
+- "Going to Bali a different person."
+- "Link in bio if you want this."
+- "More of this at speak-indo.com."
+- "If you're going to Bali — try this one."
+- "Speak Indo. Practice on your phone, embarrass yourself in private."
